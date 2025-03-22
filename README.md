@@ -1,7 +1,7 @@
 # icons
 本库旨在保存自用的一些图标地址.
 
-[自用机场图标合集](https://raw.githubusercontent.com/MinCheng7/icons/main/Sky_AirPortsIcons.json).（可忽略）
+[自用机场图标合集](https://raw.githubusercontent.com/MinCheng7/icons/refs/heads/main/Sky_AirPortsIcons.json).（可忽略）
 
 来源于各方的：
 1. [Orz-3](https://github.com/Orz-3)的[mini icon](https://github.com/Orz-3/mini/raw/master/Color%2B.json)
