@@ -1,9 +1,9 @@
 {"name":"AirPotsIcons", "description":"By Mincheng7", 
   "icons":[
-    {"name":"橘色云", "url":"https://github.com/MinCheng7/icons/blob/MinCheng7-airports/juseyun.jpg"}, 
-    {"name":"一分机场", "url":"https://github.com/MinCheng7/icons/blob/MinCheng7-airports/yifen.jpg"},
-    {"name":"墙墙", "url":"https://github.com/MinCheng7/icons/blob/MinCheng7-airports/qiangqiang.jpg"},
-    {"name":"一元机场", "url":"https://github.com/MinCheng7/icons/blob/MinCheng7-airports/yiyuan.jpg"}
+    {"name":"橘色云", "url":"https://github.com/MinCheng7/icons/blob/MinCheng7-airports/juseyun.png"}, 
+    {"name":"一分机场", "url":"https://github.com/MinCheng7/icons/blob/MinCheng7-airports/yifen.png"},
+    {"name":"墙墙", "url":"https://github.com/MinCheng7/icons/blob/MinCheng7-airports/qiangqiang.png"},
+    {"name":"一元机场", "url":"https://github.com/MinCheng7/icons/blob/MinCheng7-airports/yiyuan.png"}
 
 ]
 }
