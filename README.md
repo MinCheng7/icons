@@ -1,5 +1,7 @@
 # icons
 自用图标地址
+[自用机场的图标合集](https://raw.githubusercontent.com/MinCheng7/icons/main/Sky_AirPortsIcons.json)
+来源于各方的：
 1. [Orz-3](https://github.com/Orz-3)的[mini icon](https://github.com/Orz-3/mini/raw/master/Color%2B.json)
 2. [LovedGM](https://github.com/LovedGM/)的[姿势图标](https://raw.githubusercontent.com/LovedGM/Quantumult-X-TuBiao/main/zishi-cs.json)和[猫咪图标](https://raw.githubusercontent.com/LovedGM/Quantumult-X-TuBiao/d9790e7036861013a4c8fd51990888b1674b9ee1/maomi.json)
 3. [lige47](https://github.com/lige47)的[离歌图标合集](https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/ligeicon.json)
