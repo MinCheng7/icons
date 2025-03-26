@@ -11,5 +11,5 @@
 5. [cc63](https://github.com/cc63)的[Sure-icon](https://raw.githubusercontent.com/cc63/ICON/main/icons.json)和[Fileball-icon](https://raw.githubusercontent.com/cc63/Fileball/main/icons.json)
 6. [ginibond](https://github.com/ginibond)的[猪猪侠图标合集](https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/contact/tubiao.json)和[动漫人物图标合集](https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/character/tubiao.json)
 7. [koolson](https://github.com/koolson)的[Qure-彩色图标](https://github.com/Koolson/Qure/raw/master/Other/QureColor-All.json)
-8. Twoandz9的[TheMagic](https://raw.githubusercontent.com/Twoandz9/TheMagic-Icons/main/TheRaw.json)
+8. [black2c7](https://github.com/black2c7)的[TheMagic](https://raw.githubusercontent.com/Twoandz9/TheMagic-Icons/main/TheRaw.json)
    
